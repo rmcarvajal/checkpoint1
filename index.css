@@ -1,0 +1,42 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+    width: 400px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.separator1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: space-evenly;
+    height: 100px;
+    width: 400px;
+}
+
+.separator2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: space-evenly;
+    height: 100px;
+    width: 400px;
+}
+
+.separator3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: space-evenly;
+    height: 100px;
+    width: 400px;
+}
+
+.img{
+    background-image: url(https://picsum.photos/id/237/200/300);
+    height: 200px;
+    width: 400px;
+    background-size: cover;
+    background-position: top;
+}

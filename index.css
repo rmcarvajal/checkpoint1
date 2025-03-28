@@ -7,6 +7,7 @@
     width: 400px;
     border-style: solid;
     border-width: 5px;
+    border-radius: 10px;
 }
 
 .separator1{
@@ -37,6 +38,6 @@
     background-image: url(https://picsum.photos/id/237/200/300);
     height: 200px;
     width: 400px;
-    background-size: cover;
-    background-position: top;
+    background-size:auto;
+    background-repeat: no-repeat;
 }
